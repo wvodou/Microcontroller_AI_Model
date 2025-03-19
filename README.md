@@ -1,5 +1,5 @@
 # Goal
-This project is a classification taks aimign to distinguish between human voice audio files, and machine generated audio files.
+This project is a classification task aiming to distinguish between human voice audio files, and machine generated audio files. Furthermore, the classification model was uploaded to an STM32 B-L475E-IOT01A2 Microcontroller for real-time inference.
 
 # Main File
 Start by reading main2.ipynb
